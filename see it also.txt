@@ -1,0 +1,8 @@
+https://github.com/msdeep14/play_2048/blob/master/2048.cpp
+
+some new ideas to make project mine 
+1) give life lines like 5 life lives when game over revert back game to last 5th position or Power-Ups: You could add power-ups to the game that give players an advantage. For example, a power-up that allows players to combine tiles diagonally instead of just horizontally and vertically, or a power-up that clears the board of all tiles except the highest-value one.
+2) along with best score also add feature like time taken . avergarge time per moves, no. of moves 
+3)leaderborad
+4)background music and effects 
+6)Undo Move: Add the ability for players to undo their last move. This would allow them to correct mistakes and make the game less frustrating.
